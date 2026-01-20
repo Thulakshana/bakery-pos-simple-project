@@ -1,0 +1,3 @@
+        Stobery ICE   70.00    x1        Rs  70.00
+      Chocolate ICE   60.00    x2        Rs 120.00
+         Vanila ICE   50.00    x5        Rs 250.00
